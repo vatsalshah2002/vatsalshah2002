@@ -9,8 +9,6 @@
 - 💼 I'm aiming to become a kickass Software Engineer.  
 - 🌱 Currently learning web technologies and exploring ML/AI out of curiosity.  
 - 🚀 Goals: Building my portfolio, launching cool side projects, and learning something new daily.  
-- 😄 Fun fact: I dance in my room while working (usually with snacks nearby).
-
 ---
 
 ## 💻 Tech Stack
