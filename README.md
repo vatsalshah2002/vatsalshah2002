@@ -54,9 +54,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://www.svgrepo.com/show/331993/working-from-home.svg" width="300" alt="Coding girl illustration" />
-</p>
+
 
 ---
 
